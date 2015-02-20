@@ -1,0 +1,62 @@
+root {
+    display: block;
+}
+
+body {
+    background: url('http://1.bp.blogspot.com/-AvaZY2swb08/T16sXwJBjHI/AAAAAAAAAOM/Mjkxn4JYHmk/s1600/IMG_8049.JPG');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+h1 {
+  color: dimgray;
+  font-size: 40px;
+  font-family: 'Oxygen', sans-serif;
+  font-weight: bold;
+  text-align: left;
+  padding-top: 10px;
+  padding-left: 25px;
+  padding-bottom: 8px;
+  margin-top: 70px;
+  background: rgba(255, 240, 245, 0.8);
+  border-radius: 0px 5px 0px 0px;
+  display: block;
+    width: 475px;
+    position: static;
+    left: 70px;
+    overflow: auto;
+}
+
+h2 {
+  color: dimgray;
+  font-size: 32px;
+  font-family: 'Oxygen', sans-serif;
+  text-align: left;
+  padding-left: 25px;
+  padding-bottom: 5px;
+  background: rgba(255, 240, 245, 0.8);
+  border-radius: 0px 0px 0px 0px;
+  display: block;
+    width: 475px;
+    position: static;
+    left: 70px;
+    overflow: auto;
+}
+
+p {
+  color: dimgray;
+  font-size: 20px;
+  font-family: 'Oxygen', sans-serif;
+  text-align: left;
+  padding-top: 10px;
+  padding-left: 25px;
+  padding-bottom: 15px;
+  background: rgba(255, 240, 245, 0.8);
+  border-radius: 0px 0px 5px 0px;
+  display: block;
+    width: 475px;
+    postion: static;
+    left: 70px;
+    overflow: auto;
+}
